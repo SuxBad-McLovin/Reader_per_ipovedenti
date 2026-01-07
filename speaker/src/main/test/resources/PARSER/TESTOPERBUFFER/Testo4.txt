@@ -1,0 +1,20 @@
+package tirocinio.parser.FINDER.OLD_PROJECT;
+
+public class Test_input 
+{
+   " {'} "
+   
+   // {sto testando se ho rotto qualcosa}
+
+   /*
+   { }
+    */
+   
+   { Sto facendo qualcosa}
+
+   {
+        Sono una funzione
+   }
+
+   '}'  
+}

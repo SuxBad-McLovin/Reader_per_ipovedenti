@@ -1,0 +1,7 @@
+ "Marco" e // commento
+come andiamo?
+Bene /* non so cosa 
+rispondere "sono timido"
+// frasi a caso */
+"Mario /*chi è?*/ // non lo so"
+'Ciro' è /*di napoli*/

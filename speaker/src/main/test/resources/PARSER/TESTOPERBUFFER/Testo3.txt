@@ -1,0 +1,42 @@
+package tirocinio.parser.FINDER.OLD_PROJECT;
+
+public class Test_input 
+{
+   " ' "
+   
+   // sto testando se ho rotto qualcosa
+
+   /*Come ti chiami?
+   Pedro, tu?
+   Manuel
+    */
+   
+   //  //  //  //  //	// <--- mi serve per controllare "RECURSIVE_end_comment"
+
+   "Ciao"
+
+   'Arrivederci'
+
+   " \" "
+
+   "  \"  \" "
+
+   "\"\""
+
+   // /* ciao */
+
+   
+
+   /*
+   Aiutami
+    */
+
+   "ciao
+   "
+
+   /*Sono in un commento multilinea*/
+
+   // ciao, come ti chiami?
+
+   /*Sono mario*/
+}

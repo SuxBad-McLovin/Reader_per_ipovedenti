@@ -1,0 +1,5 @@
+ "Marco" e // commento
+come andiamo?
+Bene /* non so cosa 
+rispondere "sono timido"
+// frasi a caso */

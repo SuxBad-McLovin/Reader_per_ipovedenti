@@ -1,0 +1,1 @@
+Ciao sono un testo che non contiene caratteri che alterano la codifica
