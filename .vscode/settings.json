@@ -1,0 +1,8 @@
+{
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.project.outputPath": "target\\classes\\textospeech"
+
+}
