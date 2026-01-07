@@ -1,0 +1,13 @@
+[
+    {
+       "key": "ctrl+k",
+       "command": "workbench.action.tasks.runTask",
+       "args": "Esegui Reader su blocco"   
+    },
+
+    {
+        "key": "ctrl+1",
+        "command": "workbench.action.tasks.runTask",
+        "args": "Esegui Reader con numero di riga"
+    }
+]
